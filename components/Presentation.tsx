@@ -7,7 +7,7 @@ const slides = [
   {
     title: "SolxPass: Decentralized Proof-of-Personhood for Solana",
     subtitle: "Powered by Reclaim Protocol and Zero-Knowledge Proofs",
-    content: "Your Name/Team Name\nDate",
+    content: "Saksham Tomer(Lead Developer)",
   },
   {
     title: "What is SolxPass?",
